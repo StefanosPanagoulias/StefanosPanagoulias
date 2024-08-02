@@ -2,15 +2,13 @@
 
 ---
 
-- 📍 **Based in Coimbra, Portugal.**
+- 📍 **Based in Gent, Belgium.**
 
-- 🎓 I hold a Bachelor's degree in **Computer Engineering** from the **University of Coimbra**.
+- 🎓 I am a **Computer Science Engineering Master Student** at the **University of Ghent**, focusing on **Artificial Intelligence and Data Science**.
 
-- 🎓 I plan to continue my studies with a Master's degree in **Artificial Intelligence**.
+- 💼 I currently serve as a **Development Coordinator and Data Analyst** at [Soul 8](https://www.soul8.com/?utm_medium=cpc&utm_source=google&utm_campaign=institucional&gad_source=1&gclid=Cj0KCQjwhb60BhClARIsABGGtw8Tg368TyUWgJPp1TeyruG3K0t0l0un3oaL6G7F7at90svL5C8lGqkaAurgEALw_wcB).
 
-- 💼 Currently working at [Soul 8](https://www.soul8.com/?utm_medium=cpc&utm_source=google&utm_campaign=institucional&gad_source=1&gclid=Cj0KCQjwhb60BhClARIsABGGtw8Tg368TyUWgJPp1TeyruG3K0t0l0un3oaL6G7F7at90svL5C8lGqkaAurgEALw_wcB) as an **IT Analyst**, where I monitor and coordinate the development of our internal systems and applications.
-
-- 💻 On my GitHub, you'll find a variety of projects I developed throughout my undergraduate studies.
+- 💻 On this profile, you'll find projects developed by me during my bachelor's and master's degrees.
 
 - 📫 You can reach me at [stefanospanagoulias.spl@gmail.com](mailto:stefanospanagoulias.spl@gmail.com).
 
