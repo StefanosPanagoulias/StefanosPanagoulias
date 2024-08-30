@@ -4,7 +4,7 @@
 
 - 📍 **Based in Gent, Belgium.**
 
-- 🎓 "I am pursuing a **Master of Science in Computer Science Engineering at the University of Ghent**, with a focus on **Artificial Intelligence** and **Data Science**.
+- 🎓 I am pursuing a **Master of Science in Computer Science Engineering at the University of Ghent**, with a focus on **Artificial Intelligence** and **Data Science**.
 
 - 🎓 I hold a **Bachelor's degree in Computer Engineering** from the **University of Coimbra**.
 
