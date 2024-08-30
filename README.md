@@ -10,7 +10,7 @@
 
 - 💼 I currently serve as a **Development Coordinator and Data Analyst** at [Soul 8](https://www.soul8.com/?utm_medium=cpc&utm_source=google&utm_campaign=institucional&gad_source=1&gclid=Cj0KCQjwhb60BhClARIsABGGtw8Tg368TyUWgJPp1TeyruG3K0t0l0un3oaL6G7F7at90svL5C8lGqkaAurgEALw_wcB).
 
-- 💻 On this profile, you'll find projects developed by me during my bachelor's and master's degrees.
+- 💻 On this profile, you'll find projects I developed during my bachelor's and master's degrees, as well as personal projects.
 
 - 📫 You can reach me at [stefanospanagoulias.spl@gmail.com](mailto:stefanospanagoulias.spl@gmail.com).
 
